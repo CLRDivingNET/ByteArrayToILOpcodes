@@ -1,0 +1,14 @@
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\ByteArrayTest.exe.config
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\ByteArrayTest.exe
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\ByteArrayTest.pdb
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\ByteArrayToILOpcodes.dll
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\dnlib.dll
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\ByteArrayToILOpcodes.pdb
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\dnlib.xml
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\obj\Debug\ByteArrayTest.csproj.AssemblyReference.cache
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\obj\Debug\ByteArrayTest.csproj.SuggestedBindingRedirects.cache
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\obj\Debug\ByteArrayTest.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\obj\Debug\ByteArrayTest.csproj.CopyComplete
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\obj\Debug\ByteArrayTest.exe
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\obj\Debug\ByteArrayTest.pdb
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayTest\bin\Debug\SharpExt.dll

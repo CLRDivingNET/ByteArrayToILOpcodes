@@ -1,0 +1,10 @@
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\bin\Debug\netstandard2.1\ByteArrayToILOpcodes.deps.json
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\bin\Debug\netstandard2.1\ByteArrayToILOpcodes.dll
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\bin\Debug\netstandard2.1\ByteArrayToILOpcodes.pdb
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.csproj.AssemblyReference.cache
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.AssemblyInfoInputs.cache
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.AssemblyInfo.cs
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.dll
+D:\Code\CSharp\ByteArrayToILOpcodes\ByteArrayToILOpcodes\obj\Debug\netstandard2.1\ByteArrayToILOpcodes.pdb
